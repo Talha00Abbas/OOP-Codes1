@@ -1,0 +1,13 @@
+﻿  BinaryStore.h
+D:\SEMESTER 4\Source Project\BinaryStore.h(40,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\BinaryStore.h(53,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\BinaryStore.h(75,65): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\SEMESTER 4\Source Project\BinaryStore.h(82,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\BinaryStore.h(83,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\BinaryStore.h(84,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\BinaryStore.h(85,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Record.cpp
+  Zoo.cpp
+D:\SEMESTER 4\Source Project\Zoo.h(42,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SEMESTER 4\Source Project\Zoo.h(146,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
